@@ -16,8 +16,8 @@
     padding: 30px 0 15px 0;
     max-width: none;
 
-    --sidebar-avatar-size: 120px;
-    --sidebar-element-separation: 20px;
+    --sidebar-avatar-size: 150px;
+    --sidebar-element-separation: 1.25rem;
 
     @include respond(md) {
         width: auto;
