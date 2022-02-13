@@ -6,7 +6,6 @@ theme: stack
 permalinks:
   post: /p/:slug/
 
-
 resources:
   - name: avatar
     src: images/avatar.png
