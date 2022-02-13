@@ -1,0 +1,53 @@
+baseURL: https://sebas-mora28.github.io/
+languageCode: en-us
+title: Sebastián Mora 
+theme: stack
+
+permalinks:
+  post: /p/:slug/
+
+
+resources:
+  - name: avatar
+    src: images/avatar.png
+
+
+params: 
+  mainSectios:
+    - post
+  featuredImageField: image
+
+  sidebar:
+    emoji: 🇨🇷
+    subtitle: Software developer
+
+
+menu:
+    main:
+        - identifier: home
+          name: Home
+          url: /
+          weight: -100
+          params:
+            icon: home
+
+        - identifier: projects
+          name: Projects
+          url: /page/projects
+          weight: -100
+          params:
+            icon: archives
+
+    social:
+        - identifier: github
+          name: GitHub
+          url: https://github.com/sebas-mora28
+          params:
+            icon: brand-github
+
+
+     
+
+
+
+
