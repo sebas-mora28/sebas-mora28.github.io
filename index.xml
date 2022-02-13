@@ -6,23 +6,15 @@
         <description>Recent content on Sebastián Mora</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 12 Feb 2022 19:36:34 -0600</lastBuildDate><atom:link href="https://sebas-mora28.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>My Second Post</title>
-        <link>https://sebas-mora28.github.io/p/my-second-post/</link>
-        <pubDate>Sat, 12 Feb 2022 19:36:34 -0600</pubDate>
+        <lastBuildDate>Sat, 12 Feb 2022 23:23:02 -0600</lastBuildDate><atom:link href="https://sebas-mora28.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Bievenidos a mi blog/portfolio personal</title>
+        <link>https://sebas-mora28.github.io/p/bievenidos-a-mi-blog/portfolio-personal/</link>
+        <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://sebas-mora28.github.io/p/my-second-post/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>My First Post</title>
-        <link>https://sebas-mora28.github.io/p/my-first-post/</link>
-        <pubDate>Sat, 12 Feb 2022 17:58:32 -0600</pubDate>
-        
-        <guid>https://sebas-mora28.github.io/p/my-first-post/</guid>
-        <description>&lt;h1 id=&#34;bienvenidos&#34;&gt;Bienvenidos&lt;/h1&gt;
-&lt;p&gt;Mi nombre es Sebastian Mora&lt;/p&gt;
-</description>
+        <guid>https://sebas-mora28.github.io/p/bievenidos-a-mi-blog/portfolio-personal/</guid>
+        <description>&lt;img src="https://sebas-mora28.github.io/p/bievenidos-a-mi-blog/portfolio-personal/post1.jpg" alt="Featured image of post Bievenidos a mi blog/portfolio personal" /&gt;&lt;h2 id=&#34;bievenidos-a-mi-blog-personal&#34;&gt;Bievenidos a mi blog personal&lt;/h2&gt;
+&lt;p&gt;Hola, mi nombre es Sebastián Mora, soy estudiante de la carrera de ingeniería en computadores en el Tecnológico de Costa Rica. Gracias por leer mi primer
+artículo&lt;/p&gt;</description>
         </item>
         
     </channel>
