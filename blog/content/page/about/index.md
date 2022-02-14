@@ -20,4 +20,7 @@ My name is Sebastián Mora, I am computer engineering student at ITCR. I’m a y
 either front-end or back-end, low level programming, arduino and cloud computing.
 
 
+Loading ...
+
+
 
